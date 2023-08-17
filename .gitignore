@@ -1,0 +1,12 @@
+# Project
+.idea
+.vscode
+.env
+.python-version
+
+dev
+users.sql
+
+# Terraform
+*terraform*
+*tfstate*
